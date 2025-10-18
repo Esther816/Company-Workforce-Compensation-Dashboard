@@ -1,2 +1,2 @@
 # Company-Workforce-Compensation-Dashboard
-Workforce and Compensation Overview – Global Tech Solutions
+At GlobalTech Solutions, our workforce of 30 talented professionals drives innovation across six countries. With an average salary of $96,711 and over eight years of experience, our team blends expertise and dedication. India leads in compensation, while Berlin tops salary costs. The IT department stands out with the longest-serving staff, reflecting strong retention. Although hiring has slowed in recent years, our focus remains on sustaining excellence through experience and skill. This dashboard reveals a balanced, seasoned, and globally competitive workforce shaping the future of technology at GlobalTech Solutions.
